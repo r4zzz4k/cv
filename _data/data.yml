@@ -84,6 +84,7 @@ projects:
           native libraries via NDK, abstracting out complex backend API, dealing with lots of device-specific 
           bugs, including pre-KitKat era and Kindle Fire / BlackBerry OS devices. Building a simple backend 
           for synchronizing metadata between devices.
+          ---
           Android SDK, Java, RxJava, Parse.com (later dropped), Crashlytics, Kotlin, SparkJava.
 
       - title: DevStudio
