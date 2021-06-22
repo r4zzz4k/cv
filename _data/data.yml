@@ -3,7 +3,9 @@ sidebar:
 
     # Profile information
     name: Andrew Mikhaylov
-    tagline: Kotlin Enthusiast
+    tagline: |
+      Kotlin enthusiast
+      Kharkiv, Ukraine
     avatar: profile.png
 
     # Sidebar links
@@ -42,14 +44,16 @@ career-profile:
     title: Professional experience
     summary: |
       Tech Leader and Developer on multiple projects in different technological fields: Android (Kotlin / Java), C++, IoT.
+      Interested in programming languages design and development.
+      One of administrators of unofficial [Kotlin Telgram community](https://t.me/kotlin_lang).
 education:
     - degree: Master of computer science, systems, and technologies modeling
       university: Pryazovskyi State Technical University
       time: 2010 - 2015
 experiences:
-    - role: Lead Developer
+    - role: Android Developer
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: MobiDev
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -62,38 +66,29 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Expert at conference
+      time: 2021
+      company: [Mobius Piter]()
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Assisted [https://github.com/ilmirus](Ilmir Usmanov) with holding a talk
+        on Kotlin feature development.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Unfortuntely, most of the projects here are covered by NDA.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Inkremental (open-source)
+        link: "https://github.com/inkremental/inkremental"
+        tagline: "Easy-to-use Kotlin DSL for building Android UI using incremental DOM"
+
+      - title: Electronic book reader app for Android (ePUB and PDF)
+        role: Tech Leader and Developer
+        tagline: |
+        Maintaining and gradually refactoring legacy codebase, creating custom layouts, interoperating with 
+        native libraries via NDK, abstracting out complex backend API, dealing with lots of device-specific 
+        bugs, including pre-KitKat era and Kindle Fire / BlackBerry OS devices. Building a simple backend 
+        for synchronizing metadata between devices.
+        Android SDK, Java, RxJava, Parse.com (later dropped), Crashlytics, Kotlin, SparkJava.
 
       - title: DevStudio
         link: "#"
