@@ -77,6 +77,56 @@ projects:
         link: "https://github.com/inkremental/inkremental"
         tagline: "Easy-to-use Kotlin DSL for building Android UI using incremental DOM"
 
+      - title: iOS app for sketching floor plans
+        role: Tech Leader and Developer
+        tagline: |
+          Clarification of requirements with product owner, working on non-trivial heuristics, solving math problems.
+          ---
+          Swift, ARKit.
+
+      - title: Sheet music viewer Android application for online music library
+        role: Tech Leader and Developer
+        tagline: |
+          Clarification of requirements with product owner, improvements of technical processes around
+          application delivery, supporting technical documentation.
+          ---
+          Android SDK, Kotlin, coroutines, Moxy, Dagger 2, ObjectBox.
+
+      - title: Firmware for Raspberry Pi-based smart mailbox
+        role: Tech Leader and Developer
+        tagline: |
+          Communication with the product owner, elaboration of requirements. Working with barcode scanning
+          using low-res camera images. 
+          ---
+          TypeScript, Vue.js, Electron, WebSockets.
+
+      - title: Multimedia player app for Android
+        link: "https://mobidev.biz/portfolio/mdplayer"
+        role: Tech Leader
+        tagline: |
+          Communication with the product owner, elaboration of requirements. Mentoring junior developers.
+          Assisting with applying Material Design guidelines.
+          ---
+          Android SDK, Kotlin, RxJava, Sentry.
+
+      - title: Firmware for Raspberry Pi-based intercom
+        role: Tech Leader and Developer
+        tagline: |
+          Communication with the product owner, elaboration of requirements. Working with GPIO peripherals,
+          third-party WebRTC-based multi-media solution 
+          ---
+          Python, asyncio, GTK+, WebSockets, Docker, TokBox.
+
+      - title: C++ middleware for desktop application providing real-time monitoring of synthetic slings
+        role: Tech Leader and Developer
+        tagline: |
+          Architecturing and building the C++ module from the ground up. Doing asynchronous serial port I/O,
+          working with constantly changing protocol, dealing with unclear requirements, providing means
+          to simplify application testing for QA team, integrating app as a system service on Windows and Linux,
+          setting up infrastructure for packaging an app.
+          ---
+          C++14, Boost, WebSocket++, WinAPI, systemd, NSIS, debhelper.
+
       - title: Electronic book reader app for Android (ePUB and PDF)
         role: Tech Leader and Developer
         tagline: |
@@ -87,22 +137,6 @@ projects:
           ---
           Android SDK, Java, RxJava, Parse.com (later dropped), Crashlytics, Kotlin, SparkJava.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 skills:
     title: Skills &amp; Proficiency
 
@@ -110,14 +144,20 @@ skills:
       - name: Kotlin
         level: 98%
 
-      - name: Android SDK, AndroidX
-        level: 90%
-
       - name: kotlinx.coroutines
         level: 90%
 
-      - name: C++14, Boost, Qt
+      - name: Android SDK, AndroidX
+        level: 90%
+
+      - name: Foundation, UIKit, ARKit, cocoapods, SPM
         level: 70%
 
-      - name: Vue.js
+      - name: C++14, Boost, Qt
         level: 60%
+
+      - name: Vue.js, node.js, TypeScript
+        level: 60%
+
+      - name: Python 3
+        level: 50%
