@@ -69,7 +69,8 @@ experiences:
 
     - role: Expert at conference
       time: 2021
-      company: [Mobius Piter]()
+      company: Mobius Piter
+      link: "https://mobius-piter.ru/en/2021/spb/talks/11wws4nzkm50tek4ztiq02/"
       details: |
         Assisted [https://github.com/ilmirus](Ilmir Usmanov) with holding a talk
         on Kotlin feature development.
