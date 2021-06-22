@@ -36,7 +36,7 @@ sidebar:
       - item: Video games
 
 career-profile:
-    title: Professional experience
+    title: About Andrew
     summary: |
       - Tech Leader and Developer on multiple projects in different technological fields: Android (Kotlin / Java), iOS (Swift), C++, IoT.
       - Interested in programming languages design and development.
@@ -51,17 +51,8 @@ experiences:
       time: 2013 - Present
       company: MobiDev
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Grown here, learning to deal with different challenges, work alone or with a team,
+        communicate with clients of various backgrounds.
 
     - role: Expert at conference
       time: 2021
