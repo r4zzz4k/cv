@@ -72,7 +72,7 @@ experiences:
 
     - role: Administrator in Kotlin Telegram community
       time: 2013 - Present
-      company: @kotlin_lang
+      company: "@kotlin_lang"
       link: "https://t.me/kotlin_lang"
       details: |
         Striving to share knowledge, to help other people learn, to share the love
@@ -97,7 +97,7 @@ projects:
 
       - title: Sheet music viewer Android application for online music library
         role: Tech Leader and Developer
-        tagline: |
+        tagline: >
           Clarification of requirements with product owner, improvements of technical processes around
           application delivery, supporting technical documentation.
           ---
