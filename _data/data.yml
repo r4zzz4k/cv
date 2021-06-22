@@ -32,13 +32,8 @@ sidebar:
 
     interests:
       - item: Sci-fi books
-        link:
-
       - item: Music
-        link:
-
       - item: Video games
-        link:
 
 career-profile:
     title: Professional experience
@@ -70,10 +65,9 @@ experiences:
     - role: Expert at conference
       time: 2021
       company: Mobius Piter
-      link: "https://mobius-piter.ru/en/2021/spb/talks/11wws4nzkm50tek4ztiq02/"
       details: |
-        Assisted [https://github.com/ilmirus](Ilmir Usmanov) with holding a talk
-        on Kotlin feature development.
+        Assisted [Ilmir Usmanov](https://github.com/ilmirus) with holding
+        [a talk on Kotlin feature development](https://mobius-piter.ru/en/2021/spb/talks/11wws4nzkm50tek4ztiq02/).
 projects:
     title: Projects
     intro: >
