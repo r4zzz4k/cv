@@ -3,7 +3,7 @@ sidebar:
 
     # Profile information
     name: Andrew Mikhaylov
-    tagline: |
+    tagline: |+
       Kotlin enthusiast
       Kharkiv, Ukraine
     avatar: profile.png
@@ -15,7 +15,7 @@ sidebar:
     linkedin: r4zzz4k
     github: r4zzz4k
     telegram: r4zzz4k
-    gitlab:
+    gitlab: r4zzz4k
     bitbucket:
     twitter: '@r4zzz4k'
     stack-overflow: 2475207/r4zzz4k
@@ -37,9 +37,10 @@ sidebar:
 
 career-profile:
     title: Professional experience
-    summary: |
-      Tech Leader and Developer on multiple projects in different technological fields: Android (Kotlin / Java), C++, IoT.
+    summary: |+
+      Tech Leader and Developer on multiple projects in different technological fields: Android (Kotlin / Java), iOS (Swift), C++, IoT.
       Interested in programming languages design and development.
+      Loves open-source.
       One of administrators of unofficial [Kotlin Telgram community](https://t.me/kotlin_lang).
 education:
     - degree: Master of computer science, systems, and technologies modeling
@@ -68,6 +69,16 @@ experiences:
       details: |
         Assisted [Ilmir Usmanov](https://github.com/ilmirus) with holding
         [a talk on Kotlin feature development](https://mobius-piter.ru/en/2021/spb/talks/11wws4nzkm50tek4ztiq02/).
+
+    - role: Administrator in Kotlin Telegram community
+      time: 2013 - Present
+      company: @kotlin_lang
+      link: "https://t.me/kotlin_lang"
+      details: |
+        Striving to share knowledge, to help other people learn, to share the love
+        to Kotlin. We are trying to maintain lively community, make it as comfortable and useful
+        for others as possible. Also one of the things I'm doing there is aiding [Ruslan Ibragimov](https://ruslan.ibragimov.by/)
+        with [admin bot](https://github.com/Heapy/kotbot) for the community.
 projects:
     title: Projects
     intro: >
