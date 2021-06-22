@@ -3,7 +3,7 @@ sidebar:
 
     # Profile information
     name: Andrew Mikhaylov
-    tagline: |+
+    tagline: >
       Kotlin enthusiast
       Kharkiv, Ukraine
     avatar: profile.png
@@ -37,11 +37,11 @@ sidebar:
 
 career-profile:
     title: Professional experience
-    summary: |+
-      Tech Leader and Developer on multiple projects in different technological fields: Android (Kotlin / Java), iOS (Swift), C++, IoT.
-      Interested in programming languages design and development.
-      Loves open-source.
-      One of administrators of unofficial [Kotlin Telgram community](https://t.me/kotlin_lang).
+    summary: |
+      - Tech Leader and Developer on multiple projects in different technological fields: Android (Kotlin / Java), iOS (Swift), C++, IoT.
+      - Interested in programming languages design and development.
+      - Loves open-source.
+      - One of administrators of unofficial [Kotlin Telgram community](https://t.me/kotlin_lang).
 education:
     - degree: Master of computer science, systems, and technologies modeling
       university: Pryazovskyi State Technical University
