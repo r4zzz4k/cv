@@ -41,7 +41,7 @@ career-profile:
       - Tech Leader and Developer on multiple projects in different technological fields: Android (Kotlin / Java), iOS (Swift), C++, IoT.
       - Interested in programming languages design and development.
       - Loves open-source.
-      - One of administrators of unofficial [Kotlin Telgram community](https://t.me/kotlin_lang).
+      - One of administrators of unofficial [Kotlin Telegram community](https://t.me/kotlin_lang).
 education:
     - degree: Master of computer science, systems, and technologies modeling
       university: Pryazovskyi State Technical University
@@ -62,7 +62,7 @@ experiences:
         [a talk on Kotlin feature development](https://mobius-piter.ru/en/2021/spb/talks/11wws4nzkm50tek4ztiq02/).
 
     - role: Administrator in Kotlin Telegram community
-      time: 2013 - Present
+      time: 2019 - Present
       company: "@kotlin_lang"
       link: "https://t.me/kotlin_lang"
       details: |
@@ -144,22 +144,52 @@ skills:
 
     toolset:
       - name: Kotlin
-        level: 98%
+        level: 95%
+        details: |
+          Kotlin 1.5, kotlinx.coroutines, kotlinx.serialization, Ktor
 
-      - name: kotlinx.coroutines
+      - name: Android
         level: 90%
+        details: |
+          Android SDK, AndroidX, Dagger, RxJava, Firebase, Litho
 
-      - name: Android SDK, AndroidX
-        level: 90%
-
-      - name: Foundation, UIKit, ARKit, cocoapods, SPM
+      - name: iOS
         level: 70%
+        details: |
+          Foundation, UIKit, ARKit, cocoapods, SPM
 
-      - name: C++14, Boost, Qt
+      - name: C++
         level: 60%
+        details: |
+          C++14, Boost, Qt
 
-      - name: Vue.js, node.js, TypeScript
+      - name: JavaScript
         level: 60%
+        details: |
+          Vue.js, node.js, TypeScript
 
       - name: Python 3
         level: 50%
+
+      - name: Services
+        details: |
+          AWS, Swagger, Docker, Rancher
+
+      - name: Automated testing
+        details: |
+          Test-driven development; JUnit (Java / Kotlin), Google Test (C++)
+
+      - name: CVS
+        details: |
+          Git (CLI), Git flow
+
+      - name: CI
+        details: Jenkins, Github Actions, GitLab CI, TeamCity
+
+      - name: Issue and documentation tracking
+        details: Jira, Confluence, YouTrack, RedMine
+
+      - name: Misc
+        details: Firebase, Google Play Console, Sentry, Flurry
+
+      - name: 
