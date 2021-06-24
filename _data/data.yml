@@ -166,10 +166,14 @@ skills:
       - name: JavaScript
         level: 60%
         details: |
-          Vue.js, node.js, TypeScript
+          node.js, TypeScript, Vue.js, Electron
 
       - name: Python 3
         level: 50%
+
+      - name: Databases
+        details: |
+          SQLite, PostgreSQL, MySQL, MongoDB, ObjectBox
 
       - name: Services
         details: |
